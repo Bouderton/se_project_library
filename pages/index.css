@@ -1,10 +1,10 @@
-@import url(./page.css);
+@import url(../blocks/page.css);
 
-@import url(./header.css);
+@import url(../blocks/header.css);
 
-@import url(./nav.css);
+@import url(../blocks/nav.css);
 
-@import url(./events.css);
+@import url(../blocks/events.css);
 
 @import url(./person.css);
 
